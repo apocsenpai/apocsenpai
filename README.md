@@ -1,4 +1,4 @@
- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.dailyVisitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none"/></a>
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.visitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none"/></a>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=600&color=00FF41&center=true&width=443&height=80&lines=%F0%9F%96%96+Hello+World!;I'm+Jon;Follow+the+white+rabbit.+%F0%9F%90%87" alt="Typing SVG" /></a>
 </p>
