@@ -1,5 +1,6 @@
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.dailyVisitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none"/></a>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00FF41&center=true&width=443&height=80&lines=%F0%9F%96%96+Hello+World!;I'm+Jon" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=4000&pause=1000&color=00FF41&center=true&width=443&height=80&lines=%F0%9F%96%96+Hello+World!;I'm+Jon;Follow+the+white+rabbit.+%F0%9F%90%87" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
@@ -55,7 +56,7 @@
     <h3>Extras</h3>
     <img height="auto" width="40" src="https://cdn.simpleicons.org/gnometerminal/008F11" />&#8287;&#8287;
   </li>
-  <li><h3></h3></li>
+  <li><h3>I'm currently learning</h3></li>
  </ul>
  <hr>
 <!-- People skills -->
@@ -99,10 +100,15 @@
   </div>
 </details>
 
+<div align="center">
+  <a href="https://github.com/apocsenpai/Projeto_04_parrotsCardGame"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=Projeto_04_parrotsCardGame" /><a>
+<a href="https://github.com/jansenosorio/buzzquizz"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=jansenosorio&repo=buzzquizz" /><a>
+<a href="https://github.com/apocsenpai/BatePapoUol"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=BatePapoUol" /><a>
+  </div>
 
 <br>
  
- <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.dailyVisitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none"/></a>
+<img src="https://drive.google.com/file/d/1guZJPnGJ5t51-JbZYiJmgPsZYTfjYi_n/view?usp=share_link"/>
 <!--
 Color pallette
 
