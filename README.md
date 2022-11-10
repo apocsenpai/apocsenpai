@@ -56,7 +56,10 @@
     <h3>Extras</h3>
     <img height="auto" width="40" src="https://cdn.simpleicons.org/gnometerminal/008F11" />&#8287;&#8287;
   </li>
-  <li><h3>I'm currently learning</h3></li>
+  <li>
+   <h3>I'm currently learning</h3>
+   <img height="auto" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />&#8287;&#8287;
+ </li>
  </ul>
  <hr>
 <!-- People skills -->
