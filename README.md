@@ -108,7 +108,7 @@
 
 <br>
  
-<img src="https://drive.google.com/file/d/1guZJPnGJ5t51-JbZYiJmgPsZYTfjYi_n/view?usp=share_link"/>
+<img width="40px" src="./rabbit.png"/>
 <!--
 Color pallette
 
