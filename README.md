@@ -72,9 +72,20 @@
 <details>
 <summary> <img src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width ="25"><b>  Git Stats</b></summary>
 <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404#gh-light-mode-only">
-  <picture>
+  <div align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai" />
+</picture>
+    &#8287;&#8287;
+    <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
   media="(prefers-color-scheme: dark)"
@@ -83,8 +94,9 @@
   srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+  </div>
 </details>
 
 
