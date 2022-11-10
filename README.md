@@ -13,35 +13,84 @@
 <a href="https://discordapp.com/users/319828221933649920"><img height="28" width="28" src="https://cdn.simpleicons.org/discord/00FF41" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://twitter.com/apocsenpai"><img height="28" width="28" src="https://cdn.simpleicons.org/twitter/00FF41" /></a>
-  
+
 </div>
 
 <hr>
-<img align="right" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp" height="auto" width="40%">
-<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="28px" alt="About me"/>&#8287; <strong> About me </strong> </h3>
+<img align="right" src="https://i.giphy.com/media/smzfl3E7a4iHK/giphy.webp" height="auto" width="30%">
+<h3 align="center"> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="28px" alt="About me"/>&#8287; <b> About me </b> </h3>
 
-<p>
-  
-  </p>
+
+
+<ul>
+  <li>A passionate Self-taught Front-end developer</li>
+  <li>A passionate Self-taught Front-end developer</li>
+  <li>A passionate Self-taught Front-end developer</li>
+  <li>A passionate Self-taught Front-end developer</li>
  
+ </ul>
+ 
+ <br><br><br><br><br><br>
+ <hr>
 
-</br></br>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.dailyVisitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none" /></a>
-<!--
-**apocsenpai/apocsenpai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Hard skills -->
+  <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Hard Skills</b></h2>
+<ul>
+  <li>
+    <h3>Front-End Development</h3>
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/html5/E34F26" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/css3/1572B6" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/bootstrap/7952B3" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/sass/CC6699" />&#8287;&#8287;
+  </li>
+  <li>
+    <h3>Software ans tools</h3>
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/git/F05032" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/github/fafafa" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
+  </li>
+  <li>
+    <h3>Extras</h3>
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/gnometerminal/008F11" />&#8287;&#8287;
+  </li>
+  <li><h3></h3></li>
+ </ul>
+ <hr>
+<!-- People skills -->
+  <h2><img src="https://i.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.webp" width ="40"><b>  People Skills</b></h2>
+<ul>
+  <li><h3>👨‍👧‍👦 Team Work</h3></li>
+  <li><h3>🔍 Attention to detail</h3></li>
+  <li><h3>⏱ Time management</h3></li>
+  <li><h3>❣ Empathy</h3></li>
+  <li><h3>🧩 Problem-solving</h3></li>
+  <li><h3>🧠 Emotional intelligence</h3></li>
+ </ul>
+ <hr>
+<details>
+<summary> <img src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width ="25"><b>  Git Stats</b></summary>
+<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404#gh-light-mode-only">
+  <picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+</details>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<br>
+ 
+ <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fapocsenpai"><img src="https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fapocsenpai&label=profile.dailyVisitors&labelColor=%23003b00&countColor=%23008f11&style=plastic&labelStyle=none"/></a>
 <!--
 Color pallette
 
