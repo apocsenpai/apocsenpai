@@ -120,7 +120,7 @@
   srcset="./rabbit.png"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-  <img align="right" width="90px" src="./rabbit.png"/>
+  <img align="right" width="90px" src="./whiteRabbit.png"/>
 </picture>
 
 <!--
