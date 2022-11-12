@@ -50,6 +50,7 @@
     <img height="auto" width="40" src="https://cdn.simpleicons.org/git/F05032" />&#8287;&#8287;
     <img height="auto" width="40" src="https://cdn.simpleicons.org/github/999999" />&#8287;&#8287;
     <img height="auto" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />&#8287;&#8287;
+    <img height="auto" width="40" src="https://cdn.simpleicons.org/trello/0052CC" />&#8287;&#8287;
     <img height="auto" width="40" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
   </li>
   <li>
