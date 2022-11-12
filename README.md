@@ -3,8 +3,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=600&color=00FF41&center=true&width=443&height=80&lines=%F0%9F%96%96+Hello+World!;I'm+Jon;Follow+the+white+rabbit.+%F0%9F%90%87" alt="Typing SVG" /></a>
 </p>
 
-<div align="center">
-  
+<div align="center">  
   <!-- Contacts tags -->
 <a href="mailto:sennasjonatas@gmail.com"><img height="28" width="28" src="https://cdn.simpleicons.org/gmail/00FF41" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -14,7 +13,6 @@
 <a href="https://discordapp.com/users/319828221933649920"><img height="28" width="28" src="https://cdn.simpleicons.org/discord/00FF41" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
 <a href="https://twitter.com/apocsenpai"><img height="28" width="28" src="https://cdn.simpleicons.org/twitter/00FF41" /></a>
-
 </div>
 
 <hr>
@@ -31,7 +29,7 @@
   <li>🎉 Fun fact: I was a teacher's assistant in college twice. First in organic chemistry and second in pharmacology</li>
  </ul>
  
- <br><br><br><br><br><br>
+ <br><br><br>
  <hr>
 
 <!-- Hard skills -->
