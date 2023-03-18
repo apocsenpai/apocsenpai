@@ -2,8 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=600&color=00FF41&center=true&width=443&height=80&lines=%F0%9F%96%96+Hello+World!;I'm+Jon;Follow+the+white+rabbit.+%F0%9F%90%87" alt="Typing SVG" /></a>
 </p>
-
-<div align="center">  
+<div align="center">
   <!-- Contacts tags -->
 <a href="mailto:sennasjonatas@gmail.com"><img height="28" width="28" src="https://cdn.simpleicons.org/gmail/00FF41" /></a>
 &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -27,8 +26,7 @@
   <li>💻 I'm a student of <a href="https://www.driven.com.br/">Driven Education</a>.</li>
   <li>🌱 I’m currently learning PostgreSQL.</li>
   <li>🎉 Fun fact: I was a teacher's assistant in college twice. First in organic chemistry and second in pharmacology</li>
- </ul>
- 
+</ul>
  <br><br><br>
  <hr>
 
@@ -37,39 +35,32 @@
 <ul>
   <li>
     <h3>Front-End Development</h3>
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/html5/E34F26" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/css3/1572B6" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/javascript/F7DF1E" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/bootstrap/7952B3" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/sass/CC6699" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="" />&#8287;&#8287;
+  </li>
+  <li>
+    <h3>Back-End Development</h3>
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
+
   </li>
   <li>
     <h3>Software ans tools</h3>
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/git/F05032" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/github/999999" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/linux/FCC624" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/trello/0052CC" />&#8287;&#8287;
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/visualstudio/5C2D91" />
-  </li>
-  <li>
-    <h3>Extras</h3>
-    <img height="auto" width="40" src="https://cdn.simpleicons.org/gnometerminal/008F11" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&#8287;&#8287;
   </li>
   <li>
    <h3>I'm currently learning</h3>
-   <img height="auto" width="40" src="https://cdn.simpleicons.org/react/61DAFB" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
  </li>
- </ul>
- <hr>
-<!-- People skills -->
-  <h2><img src="https://i.giphy.com/media/oH9EpHYhOtlIZipqpk/giphy.webp" width ="40"><b>  People Skills</b></h2>
-<ul>
-  <li><h3>👨‍👧‍👦 Team Work</h3></li>
-  <li><h3>🔍 Attention to detail</h3></li>
-  <li><h3>⏱ Time management</h3></li>
-  <li><h3>❣ Empathy</h3></li>
-  <li><h3>🧩 Problem-solving</h3></li>
-  <li><h3>🧠 Emotional intelligence</h3></li>
  </ul>
  <hr>
 <details>
@@ -77,7 +68,7 @@
 <br>
   <div align="center">
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
   media="(prefers-color-scheme: dark)"
 />
@@ -89,7 +80,7 @@
 </picture>
     &#8287;&#8287;
     <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
   media="(prefers-color-scheme: dark)"
 />
@@ -103,15 +94,15 @@
 </details>
 
 <div align="center">
-  <a href="https://github.com/apocsenpai/Projeto_04_parrotsCardGame"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=Projeto_04_parrotsCardGame" /><a>
-<a href="https://github.com/jansenosorio/buzzquizz"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=jansenosorio&repo=buzzquizz" /><a>
-<a href="https://github.com/apocsenpai/BatePapoUol"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=BatePapoUol" /><a>
+  <a href="https://github.com/apocsenpai/MyWallet-SPA" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=MyWallet-SPA" /><a>
+<a href="https://github.com/Mateuscruz19/projeto18-linkr-frontend" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateuscruz19&repo=projeto18-linkr-frontend" /><a>
+<a href="https://github.com/apocsenpai/Shortly-API" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=Shortly-API" /><a>
   </div>
 
 <br>
  <h4 align="right">Knock, knock, visitor.</h4>
  <picture>
-<source 
+<source
   srcset="./whiteRabbit.png"
   media="(prefers-color-scheme: dark)"
 />
@@ -121,12 +112,3 @@
 />
   <img align="right" width="90px" src="./whiteRabbit.png"/>
 </picture>
-
-<!--
-Color pallette
-
-Vampire Black - #0D0208
-Dark Green - #003B00
-Islamic Green - #008F11
-Malachite - #00FF41
--->
