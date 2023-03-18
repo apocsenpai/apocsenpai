@@ -25,7 +25,7 @@
   <li>😺 My name is Jonatas Sennas a.k.a. Jon</li>
   <li>👦🏾 I'm a tireless self-taught, undergraduated Pharmacy student and coding is my passion since the beginning of 2022</li>
   <li>💻 I'm a student of <a href="https://www.driven.com.br/">Driven Education</a>.</li>
-  <li>🌱 I’m currently learning React.</li>
+  <li>🌱 I’m currently learning PostgreSQL.</li>
   <li>🎉 Fun fact: I was a teacher's assistant in college twice. First in organic chemistry and second in pharmacology</li>
  </ul>
  
