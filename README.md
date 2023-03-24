@@ -58,8 +58,9 @@
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&#8287;&#8287;
   </li>
   <li>
-   <h3>I'm currently learning</h3>
+   <h3>I'm currently learning</h3> 
    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" />&#8287;&#8287;
  </li>
  </ul>
  <hr>
