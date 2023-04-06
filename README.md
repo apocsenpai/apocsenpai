@@ -24,7 +24,7 @@
   <li>😺 My name is Jonatas Sennas a.k.a. Jon</li>
   <li>👦🏾 I'm a tireless self-taught, undergraduated Pharmacy student and coding is my passion since the beginning of 2022</li>
   <li>💻 I'm a student of <a href="https://www.driven.com.br/">Driven Education</a>.</li>
-  <li>🌱 I’m currently learning PostgreSQL.</li>
+  <li>🌱 I’m currently learning Java and TypeScript.</li>
   <li>🎉 Fun fact: I was a teacher's assistant in college twice. First in organic chemistry and second in pharmacology</li>
 </ul>
  <br><br><br>
@@ -48,7 +48,7 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
-
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
   </li>
   <li>
     <h3>Software ans tools</h3>
@@ -59,8 +59,8 @@
   </li>
   <li>
    <h3>I'm currently learning</h3> 
-   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="" />&#8287;&#8287;
  </li>
  </ul>
  <hr>
