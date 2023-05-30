@@ -88,7 +88,7 @@
   srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=apocsenpaia&show_icons=true" />
 </picture>
   </div>
 </details>
