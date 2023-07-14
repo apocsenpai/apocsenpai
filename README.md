@@ -100,15 +100,4 @@
   </div>
 
 <br>
- <h4 align="right">Knock, knock, visitor.</h4>
- <picture>
-<source
-  srcset="./whiteRabbit.png"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="./rabbit.png"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-  <img align="right" width="90px" src="./whiteRabbit.png"/>
-</picture>
+ <h4 align="right">Knock, knock, visitor. :rabbit: </h4>
