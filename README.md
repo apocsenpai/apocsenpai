@@ -22,10 +22,10 @@
 
 <ul>
   <li>😺 My name is Jonatas Sennas a.k.a. Jon</li>
-  <li>👦🏾 I'm a tireless self-taught, undergraduated Pharmacy student and coding is my passion since the beginning of 2022</li>
-  <li>💻 I'm a student of <a href="https://www.driven.com.br/">Driven Education</a>.</li>
-  <li>🌱 I’m currently learning Java and TypeScript.</li>
-  <li>🎉 Fun fact: I was a teacher's assistant in college twice. First in organic chemistry and second in pharmacology</li>
+  <li>👦🏾 I'm a tireless self-taught web developer and coding is my passion since the beginning of 2022</li>
+  <li>💻 I work as a volunteer frontend developer at <a href="https://www.linkedin.com/company/lacrei-saude/mycompany/verification/">Lacrei Saúde</a>.</li>
+  <li>🌱 I’m currently learning Next.js.</li>
+  <li>🎉 Fun fact: I really like exercising and I'm a muay thai fighter 🥊</li>
 </ul>
  <br><br><br>
  <hr>
@@ -35,12 +35,15 @@
 <ul>
   <li>
     <h3>Front-End Development</h3>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html" name="html" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="" />&#8287;&#8287;
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="" />&#8287;&#8287;
   </li>
   <li>
     <h3>Back-End Development</h3>
@@ -48,6 +51,17 @@
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="" />&#8287;&#8287;
+      <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="" />&#8287;&#8287;
+   <img src="https://img.shields.io/badge/postgis-555555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="" />&#8287;&#8287;
+  </li>
+  <li>
+    <h3>DevOps</h3>
+    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="" />&#8287;&#8287;
+    <img src="https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe" />&#8287;&#8287;
   </li>
   <li>
     <h3>Software ans tools</h3>
@@ -56,48 +70,37 @@
     <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" alt="Trello" />&#8287;&#8287;
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />&#8287;&#8287;
   </li>
-  <li>
-   <h3>I'm currently learning</h3> 
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="" />&#8287;&#8287;
-   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="" />&#8287;&#8287;
- </li>
  </ul>
  <hr>
 <details>
-<summary> <img src="https://next3-assets.s3.amazonaws.com/activities/1320/backgrounds-1495419106-graphs_a3_72dpi.gif" width ="25"><b>  Git Stats</b></summary>
+<summary> <h4>  Git Stats</h4></summary>
 <br>
-  <div align="center">
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai" />
-</picture>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apocsenpai&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa&layout=compact" />
     &#8287;&#8287;
-    <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=003B00&icon_color=008F11&text_color=040404"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=apocsenpaia&show_icons=true" />
-</picture>
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=apocsenpai&show_icons=true&bg_color=00000000&title_color=008F11&icon_color=008F11&text_color=fafafa" />
+ </div>
 </details>
 
+
 <div align="center">
-  <a href="https://github.com/apocsenpai/MyWallet-SPA" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=MyWallet-SPA" /><a>
-<a href="https://github.com/Mateuscruz19/projeto18-linkr-frontend" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mateuscruz19&repo=projeto18-linkr-frontend" /><a>
-<a href="https://github.com/apocsenpai/Shortly-API" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=Shortly-API" /><a>
-  </div>
+  <a href="https://github.com/apocsenpai/Salve" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=Salve" /><a>
+  <a href="https://github.com/orgs/Driven-t-klvp/repositories" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=Driven-t-klvp&repo=drivent-frontend" /><a>
+  <a href="https://github.com/apocsenpai/TrackIt-SPA" target="_blank"/><img width="320px" src="https://github-readme-stats.vercel.app/api/pin/?username=apocsenpai&repo=TrackIt-SPA" /><a>
+</div>
 
 <br>
  <h4 align="right">Knock, knock, visitor. :rabbit2: </h4>
+
+
+
+ <br><br>
+ Don't go down!!! ⚠️⚠️⚠️⚠️
+ <br><br><br><br><br><br><br><br>
+
+You discovered my CTRL+F cheating hehe ;)
+
+> Frontend/front-end/front end - html, css, css3, html5, javascript, java script, typescript, type script, sass, styled-components, styled components, react, nextjs, next.js, tailwind, tailwindcss
+> backend/back-end/back end - node, nodejs, node.js, express, expressjs, express.js, mongodb, postgre, postgresql, prisma, prismaorm, nest, nestjs, nest.js, redis, jest, postgis
+> DevOps/dev ops - docker, aws, amazon web services, github actions
+
