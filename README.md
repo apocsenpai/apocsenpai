@@ -23,8 +23,8 @@
 <ul>
   <li>😺 My name is Jonatas Sennas a.k.a. Jon</li>
   <li>👦🏾 I'm a tireless self-taught web developer and coding is my passion since the beginning of 2022</li>
-  <li>💻 I work as a volunteer frontend developer at <a href="https://www.linkedin.com/company/lacrei-saude/mycompany/verification/">Lacrei Saúde</a>.</li>
-  <li>🌱 I’m currently learning Next.js.</li>
+  <li>💻 I work as a C# developer at <a href="https://topmed.com.br/">TopMed - Saúde digital</a>.</li>
+  <li>🌱 I’m currently learning C# and ASP.NET Core.</li>
   <li>🎉 Fun fact: I really like exercising and I'm a muay thai fighter 🥊</li>
 </ul>
  <br><br><br>
